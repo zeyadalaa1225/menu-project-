@@ -1,0 +1,81 @@
+{
+    "menu_sections": [
+        {
+        "section_name": "Appetizers",
+        "dishes": [
+        {
+        "dish_name": "Bruschetta",
+        "description": "Toasted baguette topped with diced tomatoes, fresh basil, garlic, and olive oil.",
+        "price": 8.99,
+        "rating":  5,
+        "image_url": "https://img.bestrecipes.com.au/4dK1jEzy/h450-w650-cscale-1446441657/br-api/asset/17519/bruschetta.jpg",
+        "id":4
+        },
+        {
+        "dish_name": "Spinach Artichoke Dip",
+        "description": "Creamy dip made with spinach, artichokes, and melted cheese. Served with tortilla chips.",
+        "price": 10.99,
+        "rating":  4.5,
+        "image_url": "https://www.cookingclassy.com/wp-content/uploads/2018/12/spinach-artichoke-dip-12.jpg",
+        "id":5
+        }
+        ],
+        "id":1
+        },
+        
+        {
+        "section_name": "Main Courses",
+        "dishes": [
+        {
+        "dish_name": "Grilled Salmon",
+        "description": "Freshly grilled salmon fillet seasoned with herbs. Served with steamed vegetables and rice.",
+        "price": 18.99,
+        "rating":  4,
+        "image_url": "https://th.bing.com/th/id/OIP._TuDqCKoZtFLczCCe0LXbgHaE8?pid=ImgDet&rs=1",
+        "id":6
+        },
+        {
+        "dish_name": "Pasta Primavera",
+        "description": "Fettuccine pasta tossed with a medley of sautéed vegetables in a light cream sauce.",
+        "price": 14.99,
+        "rating":  5,
+        "image_url": "https://i.pinimg.com/originals/f1/d6/75/f1d6754b5df634905a82b9e2e73d6be4.jpg",
+        "id":7
+        },
+        {
+        "dish_name": "Filet Mignon",
+        "description": "Tender filet mignon steak cooked to perfection. Served with mashed potatoes and asparagus.",
+        "price": 26.99,
+        "rating":  4.5,
+        "image_url": "https://th.bing.com/th/id/R.ffaaa254b7770a72f287eceebf828a6b?rik=bt6TSspYOuLQVw&pid=ImgRaw&r=0",
+        "id":8
+        }
+        ],
+        "id":2
+
+        },
+        {
+        
+        "section_name": "Desserts",
+        "dishes": [
+        {
+        "dish_name": "Chocolate Lava Cake",
+        "description": "Warm chocolate cake with a gooey molten center. Served with vanilla ice cream.",
+        "price": 7.99,
+        "rating":  5,
+        "image_url": "https://www.handletheheat.com/wp-content/uploads/2014/01/Handle-the-Heat-Chocolate-Lava-Cakes-FInals-11.jpg",
+        "id":9
+        },
+        {
+        "dish_name": "New York Cheesecake",
+        "description": "Classic creamy cheesecake topped with your choice of fruit compote.",
+        "price": 6.99,
+        "rating":4.5,
+        "image_url": "https://th.bing.com/th/id/R.f91ea3a61f3ae42e1472b47068b12af7?rik=dwM%2fQmPk74EPog&pid=ImgRaw&r=0",
+        "id":10
+        }
+        ],
+        "id":3
+        }
+        ]
+}
